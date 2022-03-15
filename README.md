@@ -1,1 +1,1 @@
-# p5-game-fullscreen
+# GeoComp-2022-1
