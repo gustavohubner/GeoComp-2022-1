@@ -218,7 +218,7 @@ function mousePressed(event) {
     return;
   }
   lastPolygon = null;
-  lastCreated = null;
+  lastLine = null;
   moveMouse();
 
   if (mouseButton === RIGHT && selectedOrigin != null) {
